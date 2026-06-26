@@ -1,0 +1,11 @@
+.cabecalho{
+    background-color: rgb(42, 126, 165);(0,0,0);
+    text-align-center;
+    margin:0 auto;
+    max: with 800px;
+
+}
+
+.principal{
+    background-color: black
+    color:black;
